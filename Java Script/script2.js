@@ -17,3 +17,4 @@ var vencedores = [
     return item.pais;
  });
  
+ document.write(podioPorPais);
